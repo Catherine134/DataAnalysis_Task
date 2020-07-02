@@ -10,3 +10,9 @@
 # Task3 分类与预测
 
 所选问题：问题1--Hotel booking demand，酒店预订需求
+
+# Task4 离群点分析与异常检测
+
+数据集1：wine-benchmark；
+数据集2：skin-benchmark；
+
